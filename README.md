@@ -21,7 +21,7 @@
 
 
 ***
-####`Raspberry Pi 2` 
+####`Raspberry Pi2` 
 ####`ubuntu10.04`  
 ####`python3.5`  
 ####`thingspeak`
